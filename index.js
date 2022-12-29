@@ -5,7 +5,7 @@ const BOT_NAME = "G-Bot Ai";
 const { Configuration, OpenAIApi } = require("openai");
 
 const config = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 
 const openai = new OpenAIApi(config);
